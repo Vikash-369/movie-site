@@ -33,10 +33,6 @@ The design emphasizes clean navigation, readability, and user experience — per
                 <li>Integrate real movie data using an API.</li>
                 <li>Enhance responsiveness with animations and transitions.</li>
              </ul>
-             <h3>Author</h2>
-             <h4>Vikash Kumar</h3>
-             <p>Frontend Developer | Focused on JavaScript, UI Design & Web Games</p>
-             <a href="">[Your Portfolio or LinkedIn link]</a>
     </div>
 </body>
 </html>
